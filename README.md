@@ -37,26 +37,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)**  
-  Leading open-source multimodal trip planner combining GTFS, OpenStreetMap, bike-share (GBFS), and ride-hailing. Powers agency and city journey planners worldwide with GraphQL APIs and real-time support.
 
-- **[OneBusAway](https://github.com/OneBusAway)**  
-  Complete open-source suite for real-time transit information: server modules, REST APIs, GTFS-RT export, web interfaces, and official iOS/Android apps. Managed by the Open Transit Software Foundation.
-
-- **[TheTransitClock](https://github.com/TheTransitClock/transitime)**  
-  Open-source real-time arrival prediction system (formerly Transitime). Ingests vehicle positions, applies adaptive Kalman-filter algorithms, and outputs GTFS-Realtime trip updates.
-
-- **[Transitland](https://github.com/transitland)** / **[Transitland Atlas](https://github.com/transitland/transitland-atlas)**  
-  Community-edited global directory of GTFS, GTFS-RT, GBFS, and MDS feeds plus libraries (`transitland-lib`) for fetching, validating, transforming, and serving open transit data.
-
-- **[MobilityData / Mobility Database](https://github.com/MobilityData)**  
-  Canonical GTFS & GBFS validators, Mobility Database catalog of thousands of feeds, GTFS.org, and the widely used awesome-transit curated list of tools and datasets.
-
-- **[MATSim](https://github.com/matsim-org/matsim-libs)**  
-  Large-scale agent-based transport simulation framework supporting private vehicles, public transit, demand-responsive transport, and MaaS scenarios. Extensible Java platform used for research and planning.
-
-- **[Navitia](https://github.com/CanalTP/navitia)**  
-  Open-source multimodal journey-planning engine powering Navitia.io; supports GTFS and rich transit data models with APIs for schedules, isochrones, and routing.
 
 ### Additional Strong Open-Source Options
 - **GTFS tooling & validation**: MobilityData/gtfs-validator, gtfs-utils, Google transitfeed, osm2gtfs, Prism (OSM → GTFS), static-GTFS-manager.
