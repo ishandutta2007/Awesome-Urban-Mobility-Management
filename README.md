@@ -28,8 +28,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🏢 Core Platforms (Urban Mobility Management)
 
-| Platform | Description | Pricing | Free Tier / Limits | Company Size |
-| :--- | :--- | :--- | :--- | :--- |
+| Platform | Description | Pricing | Free Tier / Limits | Company Size |
+| :--- | :--- | :--- | :--- | :--- |
 | **[Optibus](https://optibus.com/)** | AI-powered end-to-end platform for transit planning, scheduling, rostering, and operations optimization used by agencies and operators globally. | Custom Enterprise Pricing | No Free Tier | $1.3B Valuation |
 | **[Via](https://ridewithvia.com/)** | End-to-end public transit software and operations platform for microtransit, paratransit, planning (Remix), and MaaS (Citymapper). Powers dynamic on-demand networks for cities and agencies worldwide. | Custom Enterprise Pricing | No Free Tier | $1B+ Valuation |
 | **[Moovit MaaS](https://moovit.com/maas-solutions)** | White-label Mobility-as-a-Service solutions including branded apps, multimodal trip planning, payments, urban mobility analytics, and on-demand transit (owned by Mobileye/Intel). | Custom Enterprise Pricing | No Free Tier (Consumer app is free) | $900M Acquisition |
