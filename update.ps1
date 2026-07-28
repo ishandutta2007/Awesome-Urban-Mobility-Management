@@ -20,15 +20,15 @@ $separator = $lines[3] + " :--- |"
 $dataLines = $lines[4..($lines.Length-1)]
 
 $companySizes = @{
-    "Via" = @(1000000000, "$1B+ Valuation");
-    "Optibus" = @(1300000000, "$1.3B Valuation");
-    "Swiftly" = @(100000000, "$100M+ Valuation");
-    "TransitScreen" = @(10000000, "$10M+ Revenue");
-    "Populus" = @(15000000, "$15M+ Revenue");
-    "Moovit MaaS" = @(900000000, "$900M Acquisition");
+    "Via" = @(1000000000, '$1B+ Valuation');
+    "Optibus" = @(1300000000, '$1.3B Valuation');
+    "Swiftly" = @(100000000, '$100M+ Valuation');
+    "TransitScreen" = @(10000000, '$10M+ Revenue');
+    "Populus" = @(15000000, '$15M+ Revenue');
+    "Moovit MaaS" = @(900000000, '$900M Acquisition');
     "Citymapper for Business" = @(100000000, "Part of Via");
     "Padam Mobility" = @(50000000, "Part of Siemens");
-    "Remix" = @(100000000, "$100M Acquisition");
+    "Remix" = @(100000000, '$100M Acquisition');
     "StreetLight Data" = @(100000000, "Part of Jacobs")
 }
 
