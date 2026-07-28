@@ -14,6 +14,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
+
+
+**Keywords:** Urban Mobility, MaaS, Transit Planning, GTFS, Open Source Transit, Smart City Software.
 ## Table of Contents
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
