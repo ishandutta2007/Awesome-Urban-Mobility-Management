@@ -21,35 +21,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## SaaS/Hosted Platforms
 
 ### Core Platforms (Urban Mobility Management)
-- **[Via](https://ridewithvia.com/)**  
-  End-to-end public transit software and operations platform for microtransit, paratransit, planning (Remix), and MaaS (Citymapper). Powers dynamic on-demand networks for cities and agencies worldwide.
 
-- **[Optibus](https://optibus.com/)**  
-  AI-powered end-to-end platform for transit planning, scheduling, rostering, and operations optimization used by agencies and operators globally.
-
-- **[Swiftly](https://www.swiftly.com/)**  
-  Real-time transit performance analytics and passenger information platform delivering high-accuracy insights, tracking, and operational intelligence for agencies.
-
-- **[TransitScreen](https://transitscreen.com/)**  
-  Custom real-time multimodal displays and digital signage aggregating transit, micromobility, and shared mobility options for public spaces, campuses, and buildings.
-
-- **[Populus](https://www.populus.ai/)**  
-  City-facing platform for managing shared mobility fleets, curbs, streets, and policy — aggregating operator data, enforcing regulations, and providing analytics.
-
-- **[Moovit MaaS](https://moovit.com/maas-solutions)**  
-  White-label Mobility-as-a-Service solutions including branded apps, multimodal trip planning, payments, urban mobility analytics, and on-demand transit (owned by Mobileye/Intel).
-
-- **[Citymapper for Business](https://citymapper.com/)**  
-  Enterprise and city MaaS offering built on the popular multimodal navigation app (now part of Via), providing trip planning, insights, and network recommendations.
-
-- **[Padam Mobility](https://www.padam-mobility.com/)**  
-  Demand-responsive transit (DRT) and on-demand mobility platform for dynamic routing, booking, and operations (Siemens ecosystem).
-
-- **[Remix](https://www.remix.com/)** (by Via)  
-  Collaborative web-based transit planning and scenario analysis tool for designing routes, evaluating equity and accessibility impacts, and visualizing networks.
-
-- **[StreetLight Data](https://www.streetlightdata.com/)**  
-  Big-data mobility analytics platform turning anonymous location data into origin-destination, volume, speed, and travel pattern insights for planners and engineers.
+| Platform | Description | Pricing | Free Tier / Limits |
+| :--- | :--- | :--- | :--- |
+| **[Via](https://ridewithvia.com/)** | End-to-end public transit software and operations platform for microtransit, paratransit, planning (Remix), and MaaS (Citymapper). Powers dynamic on-demand networks for cities and agencies worldwide. | Custom Enterprise Pricing | No Free Tier |
+| **[Optibus](https://optibus.com/)** | AI-powered end-to-end platform for transit planning, scheduling, rostering, and operations optimization used by agencies and operators globally. | Custom Enterprise Pricing | No Free Tier |
+| **[Swiftly](https://www.swiftly.com/)** | Real-time transit performance analytics and passenger information platform delivering high-accuracy insights, tracking, and operational intelligence for agencies. | Custom Enterprise Pricing | No Free Tier |
+| **[TransitScreen](https://transitscreen.com/)** | Custom real-time multimodal displays and digital signage aggregating transit, micromobility, and shared mobility options for public spaces, campuses, and buildings. | Custom Enterprise Pricing | No Free Tier |
+| **[Populus](https://www.populus.ai/)** | City-facing platform for managing shared mobility fleets, curbs, streets, and policy — aggregating operator data, enforcing regulations, and providing analytics. | Custom Enterprise Pricing | No Free Tier |
+| **[Moovit MaaS](https://moovit.com/maas-solutions)** | White-label Mobility-as-a-Service solutions including branded apps, multimodal trip planning, payments, urban mobility analytics, and on-demand transit (owned by Mobileye/Intel). | Custom Enterprise Pricing | No Free Tier (Consumer app is free) |
+| **[Citymapper for Business](https://citymapper.com/)** | Enterprise and city MaaS offering built on the popular multimodal navigation app (now part of Via), providing trip planning, insights, and network recommendations. | Custom Enterprise Pricing | No Free Tier (Consumer app is free) |
+| **[Padam Mobility](https://www.padam-mobility.com/)** | Demand-responsive transit (DRT) and on-demand mobility platform for dynamic routing, booking, and operations (Siemens ecosystem). | Custom Enterprise Pricing | No Free Tier |
+| **[Remix](https://www.remix.com/)** (by Via) | Collaborative web-based transit planning and scenario analysis tool for designing routes, evaluating equity and accessibility impacts, and visualizing networks. | Custom Enterprise Pricing | No Free Tier |
+| **[StreetLight Data](https://www.streetlightdata.com/)** | Big-data mobility analytics platform turning anonymous location data into origin-destination, volume, speed, and travel pattern insights for planners and engineers. | Custom Enterprise Pricing | No Free Tier |
 
 ## Open-Source GitHub Projects
 
