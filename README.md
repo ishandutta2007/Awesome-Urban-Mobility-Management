@@ -20,9 +20,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-### Core Platforms (Urban Mobility Management)
+### 🏢 Core Platforms (Urban Mobility Management)
 
 | Platform | Description | Pricing | Free Tier / Limits | Company Size |
 | :--- | :--- | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Populus](https://www.populus.ai/)** | City-facing platform for managing shared mobility fleets, curbs, streets, and policy — aggregating operator data, enforcing regulations, and providing analytics. | Custom Enterprise Pricing | No Free Tier | + Revenue |
 | **[TransitScreen](https://transitscreen.com/)** | Custom real-time multimodal displays and digital signage aggregating transit, micromobility, and shared mobility options for public spaces, campuses, and buildings. | Custom Enterprise Pricing | No Free Tier | + Revenue |
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 
 
