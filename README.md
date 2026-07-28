@@ -17,7 +17,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-**Keywords:** Urban Mobility, MaaS, Transit Planning, GTFS, Open Source Transit, Smart City Software.
+**Keywords:** Urban Mobility, MaaS, Transit Planning, GTFS, Open Source Transit, Smart City Software, Micromobility, Transportation Data, Demand-Responsive Transit, Curb Management, Paratransit, Real-Time Operations.
 ## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
