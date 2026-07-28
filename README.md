@@ -18,7 +18,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 **Keywords:** Urban Mobility, MaaS, Transit Planning, GTFS, Open Source Transit, Smart City Software.
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
@@ -64,7 +64,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Navitia](https://github.com/CanalTP/navitia)** [![GitHub stars](https://img.shields.io/github/stars/CanalTP/navitia?style=social&color=white)](https://github.com/CanalTP/navitia/stargazers)  
   Open-source multimodal journey-planning engine powering Navitia.io; supports GTFS and rich transit data models with APIs for schedules, isochrones, and routing.
 
-### Additional Strong Open-Source Options
+### 🛠️ Additional Strong Open-Source Options
 - **GTFS tooling & validation**: MobilityData/gtfs-validator, gtfs-utils, Google transitfeed, osm2gtfs, Prism (OSM → GTFS), static-GTFS-manager.
 - **Real-time & predictions**: TheTransitClock (above), OneBusAway modules, various GTFS-RT converters and visualizers.
 - **Multimodal & MaaS building blocks**: OpenTripPlanner clients (OTPKit for iOS, Android apps), Locomotion (open rider app), Netmobiel platform, OpenRide.
@@ -74,7 +74,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **OpenTripPlanner** + **OneBusAway** / **TheTransitClock** + **Transitland** / **Mobility Database** + **GTFS validators** with **InfluxDB/Grafana** or **PostgreSQL/PostGIS** (and optionally **MobilityDB**) for self-hosted real-time information, trip planning, and mobility analytics platforms. Add **MATSim** for scenario simulation and **MDS/GBFS** tools for shared-mobility regulation.
 
-## How to Contribute
+## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -82,7 +82,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Urban mobility and transit tools must comply with local regulations, data privacy laws (GDPR, CCPA, etc.), and accessibility requirements.
 - Self-hosted open-source solutions require proper security, reliability, and operational support for production use by public agencies.
@@ -92,7 +92,7 @@ Star the repo if you find it useful!
 Let's make urban mobility management more open, data-driven, and interoperable.
 
 
-##  Star History
+## ⭐ Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Urban-Mobility-Management&type=date&legend=bottom-right">
 <picture>
