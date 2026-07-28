@@ -43,7 +43,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 🔓 Open-Source GitHub Projects
 
+- **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)** [![GitHub stars](https://img.shields.io/github/stars/opentripplanner/OpenTripPlanner?style=social&color=white)](https://github.com/opentripplanner/OpenTripPlanner/stargazers)  
+  Leading open-source multimodal trip planner combining GTFS, OpenStreetMap, bike-share (GBFS), and ride-hailing. Powers agency and city journey planners worldwide with GraphQL APIs and real-time support.
 
+- **[OneBusAway](https://github.com/OneBusAway)** [![GitHub stars](https://img.shields.io/github/stars/OneBusAway/OneBusAway?style=social&color=white)](https://github.com/OneBusAway/stargazers)  
+  Complete open-source suite for real-time transit information: server modules, REST APIs, GTFS-RT export, web interfaces, and official iOS/Android apps. Managed by the Open Transit Software Foundation.
+
+- **[TheTransitClock](https://github.com/TheTransitClock/transitime)** [![GitHub stars](https://img.shields.io/github/stars/TheTransitClock/transitime?style=social&color=white)](https://github.com/TheTransitClock/transitime/stargazers)  
+  Open-source real-time arrival prediction system (formerly Transitime). Ingests vehicle positions, applies adaptive Kalman-filter algorithms, and outputs GTFS-Realtime trip updates.
+
+- **[Transitland](https://github.com/transitland)** / **[Transitland Atlas](https://github.com/transitland/transitland-atlas)** [![GitHub stars](https://img.shields.io/github/stars/transitland)** / **[Transitland Atlas](https:?style=social&color=white)](https://github.com/transitland)** / **[Transitland Atlas](https:/stargazers)  
+  Community-edited global directory of GTFS, GTFS-RT, GBFS, and MDS feeds plus libraries (	ransitland-lib) for fetching, validating, transforming, and serving open transit data.
+
+- **[MobilityData / Mobility Database](https://github.com/MobilityData)** [![GitHub stars](https://img.shields.io/github/stars/MobilityData/MobilityData?style=social&color=white)](https://github.com/MobilityData/stargazers)  
+  Canonical GTFS & GBFS validators, Mobility Database catalog of thousands of feeds, GTFS.org, and the widely used awesome-transit curated list of tools and datasets.
+
+- **[MATSim](https://github.com/matsim-org/matsim-libs)** [![GitHub stars](https://img.shields.io/github/stars/matsim-org/matsim-libs?style=social&color=white)](https://github.com/matsim-org/matsim-libs/stargazers)  
+  Large-scale agent-based transport simulation framework supporting private vehicles, public transit, demand-responsive transport, and MaaS scenarios. Extensible Java platform used for research and planning.
+
+- **[Navitia](https://github.com/CanalTP/navitia)** [![GitHub stars](https://img.shields.io/github/stars/CanalTP/navitia?style=social&color=white)](https://github.com/CanalTP/navitia/stargazers)  
+  Open-source multimodal journey-planning engine powering Navitia.io; supports GTFS and rich transit data models with APIs for schedules, isochrones, and routing.
 
 ### Additional Strong Open-Source Options
 - **GTFS tooling & validation**: MobilityData/gtfs-validator, gtfs-utils, Google transitfeed, osm2gtfs, Prism (OSM → GTFS), static-GTFS-manager.
